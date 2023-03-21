@@ -62,7 +62,7 @@ export default function AddUser() {
                 onChange={(e) => onInputChange(e)}
               ></input>
             </div>
-            <button type="submit" className="btn btn-outline-primary">
+            <button type="submit" className="btn btn-success">
               Submit
             </button>
             <Link to={"/"} className="btn btn-outline-danger mx-2">
